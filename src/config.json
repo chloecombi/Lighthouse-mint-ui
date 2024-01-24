@@ -1,12 +1,12 @@
 {
-    "name":"My Project",
-    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, urna eu aliquet ultricies, urna elit aliquam nunc, quis aliquet nunc nisl quis nisl.",
+    "name":"name section sa LP",
+    "description":"shiiiiiiiiiiiiiiiiiiiit!",
     "website":"",
     "twitter":"",
     "discord":"",
-    "rpc":"",
+    "rpc": "https://rpc.atlantic-2.seinetwork.io/",
     "network":"atlantic-2", 
-    "collection_address":"", 
+    "collection_address":"sei1v8s62ggw4nmthpgx0xdf9tv49tjfde357xsgartfd8h6zyp0h57q6ad07a", 
     "nft_name_type": "default",
     "groups":[
         {
