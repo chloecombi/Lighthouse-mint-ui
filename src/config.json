@@ -1,21 +1,15 @@
 {
-    "name":"name section sa LP",
-    "description":"shiiiiiiiiiiiiiiiiiiiit!",
-    "website":"",
-    "twitter":"",
-    "discord":"",
-    "rpc": "https://rpc.atlantic-2.seinetwork.io/",
-    "network":"atlantic-2", 
-    "collection_address":"sei1hvt8nv9p9ttzm4asjhy4v387gafth8esj0dmamtryzx5wn5y5cnqv92t32", 
+    "name":"The Raccoon Soseity Pass",
+    "description":"The exclusive Raccoon Sosiety whitelist pass guarantees you a coveted spot within the society and also provides you with a distinct advantage, ensuring your seamless entry into this prestigious community!",
+    "website":"www.google.com",
+    "twitter":"www.twitter.com",
+    "discord":"www.discord.com",
+    "rpc": "https://sei-testnet-rpc.polkachu.com/",
+    "network": "atlantic-2",
+    "collection_address":"sei1sen4dlthqmczky30084hldh87pt9qmm99a9p5hrtezcx94x0svfq80wung", 
     "nft_name_type": "default",
     "groups":[
-        {
-            "name":"whitelist",
-            "allowlist":[
-                "sei14v72v7hgzuvgck6v6jsgjacxnt34gj06qnx53d",
-                "sei1t22vwusjlxg4vp7gttsx7n2y9u4k0vv9lpk2ge"
-            ] 
-        },
+      
         {
             "name":"public"
         }
